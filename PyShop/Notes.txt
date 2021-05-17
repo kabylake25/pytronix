@@ -1,0 +1,14 @@
+# create django project in the current directory
+django-admin startproject projectname .
+
+# running the development server:
+python manage.py runserver
+
+# add a new app
+python manage.py startapp
+
+# create migration model to database
+python manage.py makemigrations
+
+# migrate model to database
+python manage.py migrate
