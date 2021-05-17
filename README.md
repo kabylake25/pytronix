@@ -1,2 +1,2 @@
 # pytronix
-Tronix python project repository for learning Python
+Python project repository for learning Python
