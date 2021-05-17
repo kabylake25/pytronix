@@ -5,7 +5,7 @@ django-admin startproject projectname .
 python manage.py runserver
 
 # add a new app
-python manage.py startapp
+python manage.py startapp appname
 
 # create migration model to database
 python manage.py makemigrations
